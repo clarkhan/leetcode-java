@@ -1,2 +1,2 @@
 # leetcode-java
-Leetcode Java版的Solutions
+Leetcode Java 版的 Solutions
